@@ -1,0 +1,10 @@
+E:\Work\GitHub\COVID-19_Projects\SpaceInvaders\bin\Debug\SpaceInvaders.exe.config
+E:\Work\GitHub\COVID-19_Projects\SpaceInvaders\bin\Debug\SpaceInvaders.exe
+E:\Work\GitHub\COVID-19_Projects\SpaceInvaders\bin\Debug\SpaceInvaders.pdb
+E:\Work\GitHub\COVID-19_Projects\SpaceInvaders\obj\Debug\SpaceInvaders.csprojAssemblyReference.cache
+E:\Work\GitHub\COVID-19_Projects\SpaceInvaders\obj\Debug\SpaceInvaders.Form1.resources
+E:\Work\GitHub\COVID-19_Projects\SpaceInvaders\obj\Debug\SpaceInvaders.Properties.Resources.resources
+E:\Work\GitHub\COVID-19_Projects\SpaceInvaders\obj\Debug\SpaceInvaders.csproj.GenerateResource.cache
+E:\Work\GitHub\COVID-19_Projects\SpaceInvaders\obj\Debug\SpaceInvaders.csproj.CoreCompileInputs.cache
+E:\Work\GitHub\COVID-19_Projects\SpaceInvaders\obj\Debug\SpaceInvaders.exe
+E:\Work\GitHub\COVID-19_Projects\SpaceInvaders\obj\Debug\SpaceInvaders.pdb
